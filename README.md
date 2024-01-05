@@ -1,6 +1,6 @@
 ### Setup
 
-Add file `secrect_settings.py` in the root folder with:
+Add file `secret_settings.py` in the root folder with:
 
 `link = 'game link'`
 
